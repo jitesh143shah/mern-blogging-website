@@ -3,5 +3,6 @@ Content-Type: application/json
 
 
 {
-   "fullname":"jitesh kumar"
+   "fullname":"jitesh kumar",
+   "username":"jitesh2dfdk"
 }
